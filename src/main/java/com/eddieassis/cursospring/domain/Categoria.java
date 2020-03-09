@@ -1,4 +1,4 @@
-package com.nelioalves.cursomc.domain;
+package com.eddieassis.cursospring.domain;
 
 import java.io.Serializable;
 
