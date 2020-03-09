@@ -1,6 +1,7 @@
 package com.eddieassis.cursospring.resources;
 
 import java.util.ArrayList;
+
 import java.util.List;
 
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -23,7 +24,11 @@ public class CategoriaResource {
 		lista.add(cat1);
 		lista.add(cat2);
 		
+		
+		
 		return lista;
+		
+		
 	}
 
 }
